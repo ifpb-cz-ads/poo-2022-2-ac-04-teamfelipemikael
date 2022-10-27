@@ -8,7 +8,7 @@ Arquivo referente a questão: [src/CBBExercio04.java](CBBExercio04.java)
 Arquivo referente a questão: [src/CBBExercicio05.java](CBBExercio05.java)
 
 ## Questão 06(Livro Batista e Moraes):
-@felipe-dna
+Arquivo referente a questão: [src/BMExercicio06.java](BMExercicio06.java)
 
 ## Questão 07(Livro Batista e Moraes): Escreva um programa que, dada uma variável x (com valor 180, por exemplo), temos y de acordo com a seguinte regra: se x é par, y = x / 2, se x é impar, y = 3 * x + 1, imprima y. O programa deve então jogar o valor de y em x e continuar até que y tenha o valor final de 1.
 Arquivo referente a questão: [src/BMExercio07.java](BMExercio07.java)
@@ -20,4 +20,4 @@ Arquivo referente a questão: [src/BMExercio08.java](BMExercio08.java)
 Arquivo referente a questão: [src/BMExercio09.java](BMExercio09.java)
 
 ## Questão 10(Livro Batista e Moraes):
-@felipe-dna
+Arquivo referente a questão: [src/BMExercio10.java](BMExercio10.java)
