@@ -4,8 +4,8 @@
 ## Questão 04(Livro Chagas, Baruque e Baruque): Faça um programa que imprima todos os números de 0 a 100.
 Arquivo referente a questão: [src/CBBExercio04.java](CBBExercio04.java)
 
-## Questão 05(Livro Chagas, Baruque e Baruque):
-@felipe-dna
+## Questão 05(Livro Chagas, Baruque e Baruque): Faça um programa que imprima os números pares de 0 a 100.
+Arquivo referente a questão: [src/CBBExercicio05.java](CBBExercio05.java)
 
 ## Questão 06(Livro Batista e Moraes):
 @felipe-dna
